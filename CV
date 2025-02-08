@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mostafa Ahmed - IT/CT Engineer Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            margin: 20px auto;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            background: #222;
+            color: #fff;
+            padding: 5px;
+            font-size: 18px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .contact a {
+            color: #0073b1;
+            text-decoration: none;
+        }
+        .job-title {
+            font-weight: bold;
+            color: #444;
+        }
+        .date {
+            float: right;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mostafa Ahmed</h1>
+        <p class="contact">
+            📞 (+20) 102-569-4254 | 📧 <a href="mailto:mostafa.ahmed.engineer@gmail.com">mostafa.ahmed.engineer@gmail.com</a> |
+            🔗 <a href="https://linkedin.com/in/mostafaahmed1460951b0/">LinkedIn</a>
+        </p>
+
+        <div class="section">
+            <div class="section-title">Career Summary</div>
+            <p>Results-driven IT/CT Engineer with expertise in **networking, cybersecurity, and system troubleshooting**. Proven ability to design and optimize IT infrastructures, implement security solutions, and streamline system performance. Passionate about solving complex technical challenges and ensuring seamless digital experiences.</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Technical Skills</div>
+            <ul>
+                <li><strong>Networking:</strong> TCP/IP, DHCP, DNS, VPN, Firewall Configuration</li>
+                <li><strong>Cybersecurity:</strong> Penetration Testing, Ethical Hacking, Security Compliance</li>
+                <li><strong>Software Testing:</strong> Manual Testing, ISTQB Certified</li>
+                <li><strong>Operating Systems:</strong> Windows, Linux</li>
+                <li><strong>Programming:</strong> Python, SQL</li>
+                <li><strong>Database Management:</strong> SQL, Oracle</li>
+                <li><strong>IT Support:</strong> Remote Troubleshooting, Hardware & Software Diagnostics</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Work Experience</div>
+            <p><span class="job-title">Technical Solution Engineer | Orchida-Tax</span> <span class="date">2024 - Present</span></p>
+            <ul>
+                <li>Provided enterprise-level technical support to major clients, including Coca-Cola, McDonald's, DHL, and BMW.</li>
+                <li>Installed and configured ERP/E-invoice applications, integrating **API-based solutions**.</li>
+                <li>Optimized database performance, reducing system downtime by **25%**.</li>
+                <li>Documented procedures, improving knowledge base efficiency by **30%**.</li>
+            </ul>
+
+            <p><span class="job-title">Online Tech Support | Jok Company</span> <span class="date">2023 - Present</span></p>
+            <ul>
+                <li>Resolved **100+ customer support tickets** weekly, achieving a **95% satisfaction rating**.</li>
+                <li>Diagnosed hardware/software issues remotely, reducing average resolution time by **40%**.</li>
+                <li>Developed a troubleshooting guide, enhancing support team efficiency.</li>
+            </ul>
+
+            <p><span class="job-title">Technician | AlZhara' Electronics Maintenance</span> <span class="date">2009 – 2018</span></p>
+            <ul>
+                <li>Repaired and maintained various electronic devices, reducing return rates by **20%**.</li>
+                <li>Managed inventory, optimizing stock levels and reducing waste by **15%**.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Education</div>
+            <p><strong>Bachelor’s Degree in Engineering</strong> - 2023</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Certifications</div>
+            <ul>
+                <li>ISTQB Foundation Level | 2024</li>
+                <li>Embedded Systems Software Training | NSTC | 2021</li>
+                <li>Optical Fiber, SDH & DWDM Technology | Telecom Egypt | 2022</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Projects</div>
+            <ul>
+                <li><strong>PLVAR Robot:</strong> Developed a database management system for license verification and authentication.</li>
+                <li><strong>Integrated Medical Care (IMC):</strong> Managed database systems for comprehensive medical services.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Languages</div>
+            <ul>
+                <li>Arabic - Native</li>
+                <li>English - Proficient</li>
+                <li>German - Beginner</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
